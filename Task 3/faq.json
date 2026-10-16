@@ -1,0 +1,12 @@
+[
+  {
+    "intent": "greeting",
+    "patterns": ["Hello", "Hi", "Good morning", "Hey"],
+    "response": "Hello! How can I assist you today?"
+  },
+  {
+    "intent": "faq_hours",
+    "patterns": ["What are your working hours?", "When are you open?", "Timing?"],
+    "response": "We are open Monday to Friday, 9:00 AM to 6:00 PM."
+  }
+]
